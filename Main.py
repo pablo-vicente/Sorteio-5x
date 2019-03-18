@@ -2,6 +2,7 @@ from Controladores.ControladorPrincipal import ControladorPrincipal
 
 controladorPrincipal = ControladorPrincipal()
 controladorPrincipal.validar_arquivo()
+controladorPrincipal.gerar_cupons()
 
 
 #  file = open('Gerar cupons.csv', 'r')

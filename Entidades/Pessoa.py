@@ -4,3 +4,4 @@ class Pessoa:
         self.id = id
         self.nome = nome
         self.quantidadeCupons = quantidadeCupons
+
