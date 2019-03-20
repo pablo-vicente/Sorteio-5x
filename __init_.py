@@ -2,10 +2,10 @@ from Controladores.ControladorPrincipal import ControladorPrincipal
 
 controladorPrincipal = ControladorPrincipal()
 controladorPrincipal.gerar_cupons('Base.csv')
-#controladorPrincipal.gerar_cupons()
+# controladorPrincipal.gerar_cupons()
 
-#Base.csv
-#Erros.csv
+# Base.csv
+# Erros.csv
 
 #  file = open('Gerar cupons.csv', 'r')
 #  reader = file.readline()  # leitura do cabeçalho
