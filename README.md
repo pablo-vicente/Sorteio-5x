@@ -20,6 +20,8 @@ Validar integridade arquivo csv
 ID único para cada pessoa (alfanumérico)
 NOME único para cada pessoa (alfanumérico)
 Quantidade de cupons informadas tem ser número
+Trocar strings por ENUM
+colocar metodos como static
 
 -------------------
 Validar arquivo
